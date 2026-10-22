@@ -14,7 +14,7 @@ cask "codex-reset-radar" do
 
   # Sparkle updates the app in place from 0.8.0 on, so brew upgrade leaves it alone.
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Codex Reset Radar.app"
 
