@@ -1,6 +1,6 @@
 cask "codex-reset-radar" do
-  version "0.8.0"
-  sha256 "c6d571b11c39b72cc9be7d6163a7a0b24670cff301349edb9cfe644b9952599f"
+  version "0.9.0"
+  sha256 "e834b28c657082aa7634a045e1aaf282527745acfec4f96b62dcba9a279d7134"
 
   url "https://github.com/mpellicc/codex-reset-radar/releases/download/v#{version}/CodexResetRadar.zip"
   name "Codex Reset Radar"
